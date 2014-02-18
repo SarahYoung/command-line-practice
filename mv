@@ -1,0 +1,1 @@
+mv: moves directories (files); include the 'move to' location (e.g., mv newFile ../newFile -> moves newFile to home directory)
