@@ -1,1 +1,0 @@
-grep: used to search or filter files; takes two parameters: 1) a keyword, string or pattern; 2) files through which to search and/or filter.
